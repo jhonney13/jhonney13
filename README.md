@@ -17,7 +17,7 @@ Featured Entrepreneur — <b>Dainik Jagran (Jagriti Jagran)</b>, 2025
 
 <hr/>
 
-<h2> Hi, I'm Vipul Singh Parmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Vipul Singh Parmar! <img src="https://media.tenor.com/1SXIh2VpnhQAAAAj/cat.gif" width="50"></h2>
 
 <p><em>
 🎓 MCA Student | AI/ML Engineer | Research Fellow <br/>
