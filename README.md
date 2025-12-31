@@ -39,7 +39,7 @@ Research Fellow at <b>DST-TEC, Govt. of India</b>
 vipul = {
     "pronouns": "he/him",
     "focus": ["Artificial Intelligence", "Machine Learning", "System Design"],
-    "languages": ["Python", "C", "SQL", "JavaScript"],
+    "languages": ["Python", "C", "SQL"],
     "ml_stack": [
         "PyTorch",
         "Neural Networks",
