@@ -6,7 +6,6 @@
 🎓 MCA Student | AI/ML Engineer | Research Fellow <br/>
 📍 Jhansi, Uttar Pradesh, India <br/><br/>
 Research Fellow at <b>DST-TEC, Govt. of India</b>  
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/>
 Hackathon Winner & Builder  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
