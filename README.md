@@ -20,7 +20,7 @@ Featured Entrepreneur — <b>Dainik Jagran (Jagriti Jagran)</b>, 2025
 <h2> Hi, I'm Vipul Singh Parmar! <img src="https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width="50"></h2>
 
 <p><em>
-🎓 MCA Student | AI/ML Engineer | Research Fellow | Hackathon Winner <br/>
+🎓 MCA Student | AI/ML Researcher | Research Fellow | Hackathon Winner <br/>
 📍 Jhansi, Uttar Pradesh, India <br/><br/>
 Research Fellow at <b>DST-TEC, Govt. of India</b>  
 </em></p>
