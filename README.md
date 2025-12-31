@@ -16,6 +16,13 @@ Hackathon Winner & Builder
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonney13&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhonney13&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
 
 ```python
 vipul = {
