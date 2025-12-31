@@ -1,5 +1,22 @@
 <img src="https://raw.githubusercontent.com/jhonney13/jhonney13/main/profile.jpg" width="100%" />
 
+<h3 align="center">🏆 Hackathons & Recognition</h3>
+
+<p align="center">
+🥇 <b>4× Hackathon Winner</b> · 🥈 <b>1× Runner-Up</b> <br/>
+Featured Entrepreneur — <b>Dainik Jagran (Jagriti Jagran)</b>, 2025
+</p>
+
+<p align="center">
+🥇 BU Jhansi Hackathon 3.0 (Dec 2024) <br/>
+🥇 RISE / YIC Hackathon 2024 (RLBCAU, Jhansi) <br/>
+🥇 UIT StartupUP Confluence Expo (Dec 2024) <br/>
+🥇 Priyas Interdepartmental Hackathon 2025 <br/>
+🥈 MPIDC Investor Hackathon 2024 (Sagar, MP)
+</p>
+
+<hr/>
+
 <h2> Hi, I'm Vipul Singh Parmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>
@@ -15,13 +32,6 @@ Hackathon Winner & Builder
 
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonney13&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhonney13&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 
 ```python
