@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/jhonney13/jhonney13/main/profile.jpg" width="100%" />
+
 <h2> Hi, I'm Vipul Singh Parmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
