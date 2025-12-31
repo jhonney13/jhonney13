@@ -41,7 +41,7 @@ Hackathon Winner & Builder
 vipul = {
     "pronouns": "he/him",
     "focus": ["Artificial Intelligence", "Machine Learning", "System Design"],
-    "languages": ["Python", "SQL", "JavaScript"],
+    "languages": ["Python", "C", "SQL", "JavaScript"],
     "ml_stack": [
         "PyTorch",
         "Neural Networks",
