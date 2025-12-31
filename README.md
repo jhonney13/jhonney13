@@ -28,7 +28,6 @@ Hackathon Winner & Builder
 </em></p>
 
 [![Linkedin: vipulsinghparmar](https://img.shields.io/badge/-Vipul%20Singh%20Parmar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-singh-parmar/)
-[![GitHub jhonney13](https://img.shields.io/github/followers/jhonney13?label=follow&style=social)](https://github.com/jhonney13)
 [![Twitter](https://img.shields.io/badge/-ORG__XENO-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ORG_XENO)
 [![Instagram](https://img.shields.io/badge/-vipul__s.parmar-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vipul_s.parmar/)
 
