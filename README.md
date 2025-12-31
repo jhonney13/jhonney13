@@ -23,7 +23,6 @@ Featured Entrepreneur — <b>Dainik Jagran (Jagriti Jagran)</b>, 2025
 🎓 MCA Student | AI/ML Engineer | Research Fellow | Hackathon Winner <br/>
 📍 Jhansi, Uttar Pradesh, India <br/><br/>
 Research Fellow at <b>DST-TEC, Govt. of India</b>  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: vipulsinghparmar](https://img.shields.io/badge/-Vipul%20Singh%20Parmar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-singh-parmar/)
