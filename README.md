@@ -29,9 +29,6 @@ Research Fellow at <b>DST-TEC, Govt. of India</b>
 [![Twitter](https://img.shields.io/badge/-ORG__XENO-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ORG_XENO)
 [![Instagram](https://img.shields.io/badge/-vipul__s.parmar-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vipul_s.parmar/)
 
-
-
----
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
